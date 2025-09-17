@@ -61,6 +61,8 @@ class Images {
   static const String partialPay = 'assets/image/partial_pay.png';
   static const String offlinePayment = 'assets/image/offline_payment.png';
   static const String note = 'assets/image/note.png';
+    static const String appLogo = 'assets/image/icon.png';
+
   static const String motorbike = 'assets/image/motorbike.png';
   static const String cooking = 'assets/image/cooking.png';
   static const String outForDelivery = 'assets/image/out_for_delivery.png';
@@ -88,7 +90,7 @@ class Images {
   static const String moneyIcon = 'assets/image/money_icon.png';
   static const String walletIcon = 'assets/image/wallet_icon.png';
   static const String tooltipIcon = 'assets/image/tooltip_icon.png';
-  static const String splashBackground = 'assets/image/splash_background.jpeg';
+  static const String splashBackground = 'assets/image/splash_background.png';
   static const String listIcon = 'assets/image/list_icon.png';
   static const String selectAddressBottomSheetIcon = 'assets/image/select_address_bottom_sheet_icon.png';
   static const String noMapBackground = 'assets/image/no_map_background.png';

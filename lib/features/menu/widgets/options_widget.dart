@@ -28,7 +28,6 @@ class OptionsWidget extends StatelessWidget {
     return Consumer<AuthProvider>(builder: (context, authProvider, _)=> SingleChildScrollView(
       physics: const BouncingScrollPhysics(),
       child: Ink(
-        padding: const EdgeInsets.only(top: Dimensions.paddingSizeLarge),
         child: Column(children: [
 
           Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
