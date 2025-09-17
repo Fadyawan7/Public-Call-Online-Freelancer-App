@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "906367301565",
+    "project_id": "pco-app-3d42d",
+    "storage_bucket": "pco-app-3d42d.firebasestorage.app"
+  },
+
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906367301565:android:8ef5cc658b13b8d71944d4",
+        "android_client_info": {
+          "package_name": "com.pco.pcoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906367301565-4kcsf4s68lf9o0l6qqsn5g12csqnhdvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pco.pcoapp",
+            "certificate_hash": "1146a4a03f376e6dc5b466e52ab010a2d9580265"
+          }
+        },
+        {
+          "client_id": "906367301565-h01aj9tfikc8lbnce5q3eocrlh8t0j2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pco.pcoapp",
+            "certificate_hash": "7008ca92686f437939a9aab24e8cb5e9ba3d7859"
+          }
+        },
+        {
+          "client_id": "906367301565-lupte21f5ai9nu8mu98ualkou76rgvjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJf08_uax0vrI5-sKvL_2m2DWq59iPdZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906367301565-lupte21f5ai9nu8mu98ualkou76rgvjr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906367301565-k04khf2cs33s4qgfulvjckdntjar6edn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pco.pcoapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
