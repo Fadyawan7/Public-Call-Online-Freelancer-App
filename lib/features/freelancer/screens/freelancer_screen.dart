@@ -180,6 +180,9 @@ class _FreelancerScreenState extends State<FreelancerScreen>
               );
             },
           ),
+         
+         
+         
           CustomInfoWindow(
             controller: _customInfoWindowController,
             height: 100,
