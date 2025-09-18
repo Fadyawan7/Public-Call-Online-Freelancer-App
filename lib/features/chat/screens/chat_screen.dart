@@ -28,7 +28,6 @@ class _ChatScreenState extends State<ChatScreen> {
   @override
   void dispose() {
     super.dispose();
-
   }
 
   @override
